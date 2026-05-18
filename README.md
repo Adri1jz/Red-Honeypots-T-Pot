@@ -118,10 +118,10 @@ Todo esto está explicado con más detalle en la memoria.
 
 ## Créditos
 
-- **Adrián Pérez Peláez** — Introducción, bot de Telegram, memoria y presentación
-- **Víctor Manuel Humanes Ruiz** — Nodo 1 (Hive), hardware, instalación T-Pot, seguridad perimetral
-- **Izan Lozano Hernández** — Nodo 2 (Sensor), integración con Hive, resolución de problemas de red
-- **Javier Ortiz Laguna** — Tutor del proyecto
+- Adrián Pérez Peláez
+- Víctor Manuel Humanes Ruiz
+- Izan Lozano Hernández
+- Javier Ortiz Laguna — Tutor del proyecto
 
 Proyecto realizado en el **IES Gaspar Melchor de Jovellanos**, Fuenlabrada.  
 Ciclo Formativo de Grado Superior en **Administración de Sistemas Informáticos en Red (ASIR)**.  
