@@ -1,0 +1,15 @@
+[Unit]
+Description=LocalHoneypot — Bot de alertas Telegram
+After=network.target
+
+[Service]
+Type=simple
+User=via
+ExecStart=/usr/bin/python3 /home/via/scripts/telegram_bot.py
+StandardOutput=append:/home/via/scripts/bot.log
+StandardError=append:/home/via/scripts/bot.log
+Restart=always
+RestartSec=10
+
+[Install]
+WantedBy=multi-user.target

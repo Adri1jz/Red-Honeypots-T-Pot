@@ -1,0 +1,32 @@
+# Tokens y credenciales (por si acaso)
+*.env
+.env.local
+.env.*.local
+config/*/.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# Documentos temporales de Office
+~$*.docx
+~$*.pptx
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Logs locales (si se generan)
+*.log
+logs/
+
+# No subir vídeos pesados si hay alternativa (descomentar si es necesario)
+# *.mp4
+# *.mov
+# *.avi
